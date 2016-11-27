@@ -25,9 +25,12 @@ A codebase in Git is referred to as a *repository*, or *repo*, for short.
 
 ### Workflow
 ![git_workflow](http://i.imgur.com/3HCGTlP.png)
-1. You modify files in your working directory.
-2. You stage the files, adding snapshots of them to your staging area.
-3. You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
+
+### How Git works
+1. You modify files in your working directory. This is where you work!!!!
+2. The repository is in .git/. One of the directories is the objects directory, it conatins the project history.
+3. You stage the files, adding snapshots of them to your staging/index area.
+4. You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git repository.
 
 ### Common Git commands
 
@@ -48,8 +51,8 @@ A codebase in Git is referred to as a *repository*, or *repo*, for short.
 
 ## Git Codealong
 
-### Create a new repository
-Create a new directory, open it and perform a
+### Create a new repository 
+Create a new directory called git_test, open it and perform a
 ```
 git init
 ```
@@ -79,6 +82,23 @@ Go back to a previous snapshot of your changes
 ```
 git reset
 ```
+## Activity
+
+1. Create a directory called "cheatsheets".
+2. Initialize the directory as a git repository
+3. Inside the directory create a file called "git.md".
+4. Open the file in your text editor and write out all the git commands that we discussed with a brief description of what they do in your own words.
+5. Commit the changes
+
+Extra:
+
+Use `git <command> --help` for more information on how to use some of the commands we discussed
+
++ Make some more changes to your files and commit them
++ View your commit history
++ View the differences between your recent and older commits
++ Undo the changes you made by going back to a previous commit
++ Create a new branch and switch to that branch to make edits to it
 
 ## Intro to Github
 
@@ -119,7 +139,7 @@ git pull upstream master
 Lets you tell others about changes you've pushed to a repository on Github. When you fork a repo and make changes to your personal copy, you can suggest those changes be on the original repo by creating a pull request. __Note: This is not the same as a `git pull`.__
 
 ## Let's clone the class repo.
-[WDI SM 24 Class Repo](https://github.com/ga-students/WDI_SM_24)
+[WDI DTLA 41 Class Repo](https://github.com/WDI-DTLA-41/classroom)
 
 Click on the green button that says "Clone or Download".
 Copy the url or click on the clipboard icon which will copy it for you.
@@ -129,27 +149,12 @@ Copy the url or click on the clipboard icon which will copy it for you.
 git clone <url>
 ```
 
-## Activity
-
-1. Create a directory called "cheatsheets".
-2. Initialize the directory as a git repository
-3. Inside the directory create a file called "git.md".
-4. Open the file in your text editor and write out all the git commands that we discussed with a brief description of what they do in your own words.
-5. Commit the changes
-
-Extra:
-
-Use `git <command> --help` for more information on how to use some of the commands we discussed
-
-+ Make some more changes to your files and commit them
-+ View your commit history
-+ View the differences between your recent and older commits
-+ Undo the changes you made by going back to a previous commit
-+ Create a new branch and switch to that branch to make edits to it
+## Activity contd.
 
 ### Now put it on github
 1. Create a new repository in Github called "cheatsheets"
 2. Use the code snippet provided by Github to associate your local git repository with the remote repository
+3. use 'git remote show origin' to check if linked to the correct repository
 3. Push your local changes up to Github
 
 Extra:
