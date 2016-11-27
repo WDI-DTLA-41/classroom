@@ -24,6 +24,7 @@ A codebase in Git is referred to as a *repository*, or *repo*, for short.
 ![gitflow](http://rogerdudler.github.io/git-guide/img/branches.png)
 
 ### Workflow
+![screenshot](http://imgur.com/a/BpKXQ)
 
 1. You modify files in your working directory.
 2. You stage the files, adding snapshots of them to your staging area.
