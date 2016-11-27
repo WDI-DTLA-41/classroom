@@ -1,13 +1,11 @@
-# classroom
-===================================================================================================
-**Will be updated daily**
+# **classroom**
+==================================================================================
+**_Will be updated daily_**
 
 This repositiory conatins [lectures](./lectures) for the WDI_DTLA_41 class
 
-[``` Lectures``` ](./lectures)          
- [**Week 1**](./lectures/week_01)
-        *[**Week 1**](./lectures/week_01/01w01d01m_class_github_workflow)
-
+[``` Lectures```](./lectures)          
+* [Week 1](./lectures/week_01)
 
 
 
