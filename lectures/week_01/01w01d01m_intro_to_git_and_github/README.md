@@ -154,8 +154,9 @@ git clone <url>
 ### Now put it on github
 1. Create a new repository in Github called "cheatsheets"
 2. Use the code snippet provided by Github to associate your local git repository with the remote repository
-3. use 'git remote show origin' to check if linked to the correct repository
-3. Push your local changes up to Github
+3. use 'git remote -v' to check if linked to the correct repository
+    what happens if you type 'git remote show origin'?
+4. Push your local changes up to Github
 
 Extra:
 + Fork your neighbors cheatsheet
