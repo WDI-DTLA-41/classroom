@@ -124,8 +124,8 @@ Before we can add styles to a web page, we're going to need one to style!
 In Terminal (don't type the `$`):
 
 ```
-$ mkdir css-basics
-$ cd css-basics
+$ mkdir intro-to-css
+$ cd intro-to-css
 $ touch index.html
 $ subl .
 ```
