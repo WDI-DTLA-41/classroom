@@ -115,7 +115,7 @@ A good word to help remember the order of these values is **TR**ou**BL**e (top-r
    
 [This documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties) explains all about shorthand properties.
 
-### 3. Adding Styles to a Web Page<small> (code along - 30 mins)</small>
+### 3. Adding Styles to a Web Page
 
 #### Setup
 
