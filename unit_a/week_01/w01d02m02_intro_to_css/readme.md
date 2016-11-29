@@ -1,7 +1,7 @@
 ![](http://c2journal.com/wp-content/uploads/2014/07/css3-markup.jpg)
 # CSS - Basics
 
-Learning Objectives - SWBAT|
+Learning Objectives
 
 - Add Styles to a Web Page
 - Use Basic Selectors to Target Elements for Styling
