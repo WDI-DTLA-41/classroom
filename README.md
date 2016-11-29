@@ -3,10 +3,10 @@
 ==================================================================================
 **_Will be updated daily_**
 
-This repositiory conatins [lectures](./lectures) for the WDI_DTLA_41 class
+This repositiory conatins [lectures](./lunit_a) for the WDI_DTLA_41 class
 
 [``` Lectures```](./lectures)          
-* [Week 1](./lectures/week_01)
+* [Week 1](./unit_a/week_01)
 
 
 
