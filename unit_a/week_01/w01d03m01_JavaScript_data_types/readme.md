@@ -149,23 +149,3 @@ for(assignment; run condition; increment/decrement){
 
 Loops operate based on conditional statements, running as long as the condition it is checking against is true. Take care not to write a condition that will always evaluate to true, otherwise you will create an infinite loop that will crash your browser (and maybe your whole computer!!!).
 
-### White Boarding
-
-Shut your computers.  
-![home_alone](https://media0.giphy.com/media/d2ZjBlsQa5dWO45a/200.gif)
-
-Let's whiteboard examples of:
-
-* String
-* Number
-* Boolean
-* Array
-* variable assignment
-
-##Conclusion
-
-* What are the five primitive JavaScript data types?
-* What method can be used to remove the last item in an array?
-* What method can be used to remove the first item in an array?
-* What method can be used to add an item to the end of an array?
-* What method can be used to add an item to the beginning of an array?
