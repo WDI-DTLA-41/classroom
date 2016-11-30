@@ -128,15 +128,6 @@ The two parts of a while loop:
 *  A condition that it checks
 *  Something that it does
 
-I want you all to walk me through creating a while loop that will `console.log` every number from 1-9
-
-
-As an exercise I want you all to put this into practice
-
-* Create an array of all the members of The Beatles!
-* Loop through The Beatles, and console.log each one introducing himself.
-
-
 ####For Loops
 While loops are similar to For loops, but for loops are often the better choice because they take care of the assignment, the run condition and the incrementation/decrementation all in one step.
 
@@ -153,27 +144,6 @@ for(assignment; run condition; increment/decrement){
 * THE ASSIGNMENT sets a variable before the loop begins
 * THE RUN CONDITION defines the condition for the loop to run
 * INCREMENTS/DECREMENTS executes after each completed loop  
-
-Let's loop through an array of people and `console.log` both the `index` and the `element`.
-
-I want you all to pair up now and describe what is happening in this loop to each other.
-
-Let's create another one but have it log in reverse.
-
-We will have to subtract 1 from `Array.length` in our assignment. 
-
-What will our new end condition be? 
-
-What about our increment condition?
-
-```js
-  var numbers = [1,2,3,4,5,6,7,8,9,10,11,12,13,14];
-```
-* Create a loop that loops through this array from end to start but jumps by two each time.
-
-* Create another loop that only prints out multiples of 3.
-
-Why don't we convert our Beatles while loop that we wrote a few minutes ago and convert it to a `for` loop!
 
 **Avoiding Infinite Loops**
 
