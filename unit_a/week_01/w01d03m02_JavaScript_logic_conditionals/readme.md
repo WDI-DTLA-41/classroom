@@ -210,15 +210,6 @@ one. If the `quantity`  is one or greater `console.log` either `1 pet` or
 Easy, right?
 ----
 
-#### Intermediate task:
-
-4. There is an event with ticket prices that are `$50`, `$65`, `$85` for 
-standard, premier, and premier plus (for drinks) seating. Seniors, veterans, 
-and students receive a `$10` discount while standard patrons receive no 
-discount. Based on hardcoded variables for `ticketType` and `discountType`, 
-print out a patrons `ticketPrice`.
-
-----
 ### Let's take a look at the TERNARY OPERATOR!
 
 question/conditional ? do this if true : do this if false
@@ -230,11 +221,7 @@ question/conditional ? do this if true : do this if false
 
 ###Your task:
 
-1) Either go back to previous tasks and rewrite them using the ternary
-
-OR
-
-2) Write this decision tree as a conditional:
+ Write this decision tree as a conditional:
 
 ![decision tree](decision_tree.gif)
 
@@ -242,11 +229,3 @@ OR
 
 For an extra bonus, wrap it up in a function called `whatShouldIDoToday`.
 
-## Conclusion
-
-Close your computers. Let's write on the walls!
-
-* an if/else statement using `&&`
-* an if/else statement using `||`
-* an if/else statement using `!`
-* use the ternary operator
