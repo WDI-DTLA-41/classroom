@@ -111,28 +111,6 @@ How could I access "Buffy"?
 
 Think of it like years in your life. You start at zero and go from there. 
 
-### Independent Practice
-I want you all to break up into groups and create an array of your favorite sports teams and test out some different methods on that array. I'll call on your group after a few minutes and ask you to explain what one of these methods does, and an example of why you might want to use it.
-
-*    `Array.push()`
-*    `Array.pop()`
-*    `Array.shift()`
-*    `Array.unshift()`
-*    `Array.sort()`
-*    `Array.reverse()`
-
-Here is a reference for more information about [arrays and methods you can use on them](http://devdocs.io/javascript-array/).
-
-### Independent Practice Round Two!
-Those six array methods that you just practiced are all very important, but they're not the only methods you will be using! Here's another round of very common and useful array methods that are beneficial to learn:
-
-* `String.split()`
-* `Array.join()`
-* `Array.splice()`
-* `Array.slice()`
-
-After you feel like you have a good understanding of those four methods, check out [this reference](http://devdocs.io/javascript-array/) and see if you can find any other methods that you think will be useful and share back with the class!
-
 ###Loops
 **What is a loop** 
 
