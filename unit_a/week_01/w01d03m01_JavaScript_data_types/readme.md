@@ -80,7 +80,7 @@ We will come back to how variables are stored later...
 
 ###Array of hope!
 
-![ray_of_hope](http://www.arounddublinblog.com/wp-content/uploads/2010/01/ray-of-hope.jpg)
+**A JavaScript array are high-level, list-like objects**
 
 **What is an Array**
 
