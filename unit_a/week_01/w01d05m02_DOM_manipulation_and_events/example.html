@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>DOM Example</title>
+
+  <style>
+    * { box-sizing: border-box; }
+    html,
+    body {
+      font-family: sans-serif;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    code {
+      background-color: #EEE;
+      padding: 0 4px;
+    }
+
+    .halo {
+      border: 5px solid white;
+      border-radius: 10px;
+
+      -webkit-box-shadow: 0px 0px 70px 17px rgba(247,227,5,1);
+      -moz-box-shadow: 0px 0px 70px 17px rgba(247,227,5,1);
+      box-shadow: 0px 0px 70px 17px rgba(247,227,5,1);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <a name="are-you-ready"></a>
+    <h1 class="no-links">Are you ready for the Dom?</h1>
+    <img id="nice-pic-bro" class="parole-violation good-heart" src="assets/dom-pic.jpg" alt="Dom gives the camera sleepy eyes.">
+  </header>
+
+  <main>
+    <p class="no-links">
+       This is an example web page. There is some HTML, some CSS, and
+       some JavaScript.
+    </p>
+    <p class="no-links code">
+       Open the browser's console and begin to explore properties on the
+       variable <code>document</code>.
+    </p>
+    <p id="outside-link">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model">
+        There is so much more to learn!
+      </a>
+    </p>
+  </main>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function(eventObject) {
+      console.log("'I work out.'");
+    });
+
+    console.log("'Girl look at that body:'");
+  </script>
+</body>
+</html>

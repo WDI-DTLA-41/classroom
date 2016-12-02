@@ -1,0 +1,48 @@
+.tree {
+  background-image: url("../images/palm-tree.gif");
+  background-repeat-y: no-repeat;
+  width: 100%;
+  height: 80%;
+  position: absolute;
+
+}
+
+.car {
+  background-image: url("../images/maserati.png");
+  background-size: 100%;
+  background-repeat-y: no-repeat;
+  width: 120px;
+  height: 60px;
+  position: absolute;
+
+  left: 970px;
+  bottom: 55px;
+}
+
+.mcdonalds {
+  background-image: url("../images/mcdonalds-pole.png");
+  background-size: 100%;
+  background-repeat-y: no-repeat;
+  width: 320px;
+  height: 500px;
+  position: absolute;
+
+  left:   0px;
+  bottom: 50px;
+}
+
+.dog {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: 180px;
+
+  z-index: -5;
+
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}

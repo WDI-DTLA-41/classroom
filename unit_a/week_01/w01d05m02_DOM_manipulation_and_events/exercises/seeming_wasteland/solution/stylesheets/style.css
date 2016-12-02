@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'Mistral';
+  src: url(../fonts/mistral.woff);
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: url(../images/wasteland.jpg) no-repeat;
+  background-size: 1450px;
+  font-family: Mistral, sans-serif;
+}
+
+.dwelling {
+  background: url(../images/house.png) no-repeat;
+  background-size: cover;
+  height: 121px;
+  position: absolute;
+  top: 446px;
+  left: 900px;
+  width: 211px;
+}
+
+#waldo {
+  background: url(../images/waldo.gif) no-repeat;
+  background-size: 100% 100%;
+  top: 521px;
+  height: 45px;
+  position: absolute;
+  left: 889px;
+  width: 31px;
+  z-index: -10;
+}
+
+h1 {
+  color: #E44497;
+  font-size: 5em;
+  margin-top: 50px;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin-right: 130px;
+  font-size: 0.7em;
+}
+
+li:nth-child(odd){
+  height: 55px;
+  width: 55px;
+}
+
+.shadowed {
+  text-shadow: 2px 2px gray;
+}
+
+.bird {
+  background: url(../images/bird.png) no-repeat;
+  background-size: cover;
+  height: 40px;
+  width: 40px;
+}
+
+.news0 {
+  background: url(http://www.hollywoodreporter.com/sites/default/files/imagecache/blog_post_349_width/2012/05/anchorman_ron_burgundy_a_p.jpg) no-repeat;
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+}
+
+.news1 {
+  background: url(http://cdn1.bloguin.com/wp-content/uploads/sites/94/2012/03/brianfantana.jpg) no-repeat;
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+}
+
+.news2 {
+  background: url(http://www.empireonline.com/images/features/100greatestcharacters/photos/57.jpg) no-repeat;
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+}
+
+.news3 {
+  background: url(http://i9.photobucket.com/albums/a51/Kaibs/d07500c90a01283d.png) no-repeat;
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+}
+
+.news4 {
+  background: url(http://www.quotesworthrepeating.com/wp-content/uploads/2013/01/Wes-Mantooth.jpg) no-repeat;
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+}
