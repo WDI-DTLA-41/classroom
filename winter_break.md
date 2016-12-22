@@ -5,6 +5,8 @@ During the break here is a checklist of work to complete!
 
 ## ⚗️ Labs
 
+Did you finish?
+
 - [ ] [Todo](https://github.com/WDI-DTLA-41/lab-w01d05-todo-js)
 - [ ] [Multy-Do](https://github.com/WDI-DTLA-41/lab-w02d02-js-multi-do)
 - [ ] [Expense Tracker](https://github.com/WDI-DTLA-41/lab-w02d03-js-expense-tracker)
@@ -27,7 +29,7 @@ During the break here is a checklist of work to complete!
 - [ ] Check out the [after hours holiday practice](https://github.com/WDI-DTLA-41/after_hours_practice/tree/master/holiday_practice_exercises)
 
 ## 📚 Readings
-
+- [ ] [jQuery Learning Center](https://learn.jquery.com/)
 - [ ] [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net/)
  
