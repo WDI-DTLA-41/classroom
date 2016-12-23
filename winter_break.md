@@ -30,6 +30,7 @@ Did you finish?
 
 ## 📚 Readings
 - [ ] [jQuery Learning Center](https://learn.jquery.com/)
+- [ ] [Codeacademy jQuery Tutorial](https://www.codecademy.com/learn/jquery)
 - [ ] [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [ ] [Eloquent JavaScript](http://eloquentjavascript.net/)
  
