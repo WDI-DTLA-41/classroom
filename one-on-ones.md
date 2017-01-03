@@ -1,4 +1,4 @@
-# Weekly One-on-ones 
+# Weekly 1-on-1
 
 # Tuesdays
 - Mimi
