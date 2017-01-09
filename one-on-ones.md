@@ -8,7 +8,7 @@
 - Abi
 - Bao
 
-# Tuesday
+# Tuesdays
 - Michelle
 - Kora
 - Andrew
@@ -16,7 +16,7 @@
 - Barrett
 - Tim
 
-# Wednesday
+# Wednesdays
 - An
 - Ritwick
 - Kris
