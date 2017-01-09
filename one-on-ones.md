@@ -4,7 +4,7 @@
 - Mimi
 - Brad
 - Margie
-- Roney
+- Rony
 - Abi
 - Bao
 
