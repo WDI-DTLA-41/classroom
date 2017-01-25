@@ -7,10 +7,10 @@
 - Abi
 - Bao
 - Michelle
-
-# Thursday
 - Kora
 - Andrew
+
+# Thursday
 - Jake
 - Barrett
 - Tim
