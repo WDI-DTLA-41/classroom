@@ -1,23 +1,22 @@
 # Weekly 1-on-1
 
-# Mondays
+# Wednesday
 - Mimi
 - Brad
 - Margie
-- Rony
 - Abi
 - Bao
-
-# Tuesdays
 - Michelle
+
+# Thursday
 - Kora
 - Andrew
 - Jake
 - Barrett
 - Tim
-
-# Wednesdays
 - An
+
+# Friday
 - Ritwick
 - Kris
 - Lacey
